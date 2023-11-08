@@ -1,5 +1,5 @@
 # Ex. No: 5 Creating Triggers using PL/SQL
-## Date: 1/9/23
+## Date: 31/8/23
 ### AIM: To create a Trigger using PL/SQL.
 
 ### Steps:
